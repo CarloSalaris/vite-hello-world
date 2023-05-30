@@ -12,8 +12,8 @@ export default {
             <p>Jumbotron paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dicta ullam obcaecati
                 accusamus eveniet itaque quasi perferendis totam, reprehenderit, blanditiis provident architecto doloribus
                 inventore sed, voluptatibus fugiat magnam explicabo! Numquam.</p>
-            <button class="big-button"><a href="#"><i class="fa-solid fa-arrow-down-long"></i> BUTTON 1</a></button>
-            <button class="big-button black-back"><a href="#">BUTTON 2</a></button>
+            <button><a href="#">BUTTON 1</a></button>
+            <button><a href="#">BUTTON 2</a></button>
         </div>
 
     </div>
