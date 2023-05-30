@@ -26,6 +26,8 @@ export default {
     border-radius: 20px;
     background-image: url(../assets/ViteVine.webp);
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .center-block {
